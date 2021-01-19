@@ -34,7 +34,8 @@
   "files": [
     "examples/",
     "README.md",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "license": "MIT",
   "devDependencies": {
